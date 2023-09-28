@@ -1,0 +1,14 @@
+Name : Dip
+
+Religion : Islam
+
+Birthdate : 31 July,2001
+
+Profession : Engineer
+
+Phone NO : 01917563795
+
+Gmail : dipkhan870@gmail.com
+
+Password : abc
+
